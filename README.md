@@ -1,8 +1,9 @@
 # Olga-Test
 # Hour Tracking
+
 Date |  Studying Hours Target | Actual time studied | 
 ------------ | ------------- | ------------- | ------------- | ---------------
-08/05/2019  |  5hrs |      
+ 08/05/19 |  5hrs |      
 
 
 
