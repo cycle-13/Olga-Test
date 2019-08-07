@@ -2,7 +2,7 @@
 # Hour Tracking
 
 
-Date | Appx Hours | Actual hrs |  Notes
+Date | Expected Hours | Actual hrs |  Notes
 ----|------------|------------|-----
 08/07/2019 | 7hrs |            | 
 
