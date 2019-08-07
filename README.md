@@ -1,8 +1,9 @@
 # Olga-Time Managment
 # Hour Tracking
------|-----|-----|-----
+
 
 Date | Appx Hours | Actual hrs |  Notes
+-----|------------|------------|-----
 
 
 
