@@ -25,6 +25,9 @@ Day | Hours Studying | Subject type | Link | My Notes |
 2 | 7.5 | Reading | http://index-of.co.uk/Theory-of-Computation/Charles_Petzold-Annotated_Turing-Wiley(2008).pdf | done
 3 | 1.0 | Test Prep | 
 4 | 0.5 | Installation | Windows set up, Ubuntu,Putty, VMware ESXi(https://192.168.5.5/)
-4 | 2.0 | Reading | Qui preparation, reading about motherboards, hard drive technologies, the Visible PC, Essential Periphereals
+4 | 2.0 | Reading | Quiz preparation, reading about motherboards, hard drive technologies, the Visible PC, Essential Periphereals
+5 | 8.0 | Studying | Implementing hard drives, Microprocessors, the visible pc (quizes) 
+5 | 1.5 | Reading | going over learned material, making notes
+5 | 0.5 | Resume | resume prep 
 
 
