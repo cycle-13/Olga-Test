@@ -27,9 +27,9 @@ Day | Hours Studying | Subject type | Link | My Notes |
 4 | 0.5 | Installation | Windows set up, Ubuntu,Putty, VMware ESXi(https://192.168.5.5/)
 4 | 2.0 | Reading | Quiz preparation, reading about motherboards, hard drive technologies, the Visible PC, Essential Periphereals
 5 | 8.0 | Studying | Implementing hard drives, Microprocessors, the visible pc (quizes) 
-5 | 0.5 | Reading | going over learned material, making notes
+5 | 0.5 | Reading | going over learned material,  notes
 5 | 0.5 | Studying | Watching youtube videos on microprocessors, implementing hard drives
 5 | 0.5 | Resume | resume prep 
-6 | 1.5 | Studying | Microprocessors reading, making notes
+6 | 1.0 | Studying |  Microprocessors reading, writing down notes
 
 
