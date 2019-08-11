@@ -31,5 +31,6 @@ Day | Hours Studying | Subject type | Link | My Notes |
 5 | 0.5 | Studying | Watching youtube videos on microprocessors, implementing hard drives
 5 | 0.5 | Resume | resume prep 
 6 | 1.0 | Studying |  Microprocessors reading, writing down notes
+7 | 1.5 | Studying | Reading about power supplies, RAM. Watching Professor Messor videos | Pr Messor is really great channel
 
 
