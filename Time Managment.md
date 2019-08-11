@@ -1,22 +1,4 @@
 # Olga-Time Managment
-# Hour Tracking
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Studying Progress
 
 Day | Hours Studying | Subject type | Link | My Notes |
@@ -32,5 +14,6 @@ Day | Hours Studying | Subject type | Link | My Notes |
 5 | 0.5 | Resume | resume prep 
 6 | 1.0 | Studying |  Microprocessors reading, writing down notes
 7 | 1.5 | Studying | Reading about power supplies, RAM. Watching Professor Messor videos | Pr Messor is really great channel
-
+7 | 0.5 | Resume | Final touches
+7 | 1.0 | GitHub | Exploring GitHub |Honestly don't know what im doing, but i'm trying :) 
 
