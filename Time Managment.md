@@ -16,5 +16,5 @@ Day | Hours Studying | Subject type | Description | My Notes |
 7 | 1.5 | Studying | Reading about power supplies, RAM. Watching Professor Messor videos | Pr Messor is really great channel
 7 | 0.5 | Resume | Final touches
 7 | 1.0 | GitHub | Exploring GitHub |Honestly don't know what im doing, but i'm trying :) 
-8 |4.0 | Class | Going over power supplies, RAM slides. Quizes
-
+8 | 2.0 | Class | Going over power supplies, RAM slides. Quizes
+8 | 2.0 | PC Assembly | 1.4 lab. Computer disassembly, assembly
