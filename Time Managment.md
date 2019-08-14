@@ -18,3 +18,7 @@ Day | Hours Studying | Subject type | Description | My Notes |
 7 | 1.0 | GitHub | Exploring GitHub |Honestly don't know what im doing, but i'm trying :) 
 8 | 2.0 | Class | Going over power supplies, RAM slides. Quizes
 8 | 2.0 | Lab | 1.4 lab. Computer disassembly, assembly
+9 | 8.0 | Class | Ram quiz, going over  q&a, cisco sign up, lab 1.3.1
+9 | 1.0 | Studying | HW
+10 | 8.0 | Class | Slides, 
+
